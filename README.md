@@ -1,9 +1,4 @@
 # CSS Color Game
-===
-
-## Table of Contents
-
-[TOC]
 
 ## About the App
 
