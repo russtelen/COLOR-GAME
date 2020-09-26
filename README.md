@@ -18,4 +18,4 @@
 - Bootstrap 3
 
 ## App Preview
-![app preview](https://media.giphy.com/media/h6yGtaD17xYuG0mPqc/giphy.gif)
+![app preview](apppreview.gif)
