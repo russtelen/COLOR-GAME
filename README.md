@@ -1,8 +1,4 @@
----
-title: 'Project documentation template'
----
-
-CSS Color Game
+# CSS Color Game
 ===
 
 ## Table of Contents
