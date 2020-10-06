@@ -9,6 +9,10 @@
 
     There are two modes, hard and easy. There will be 3 colors to choose from
     on easy mode, and 6 colors to choose from on hard mode.
+    
+## Play the game here:
+    
+    https://russtelen-color-game.netlify.app
 
 ## Technologies Used
 - HTML
