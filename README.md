@@ -12,7 +12,7 @@
     
 ## Play the game here:
     
-    https://russtelen-color-game.netlify.app
+    [Color Game App](https://russtelen-color-game.netlify.app)
 
 ## Technologies Used
 - HTML
